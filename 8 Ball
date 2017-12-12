@@ -50,7 +50,8 @@
                 
                 Content="Shake Ball" Tapped="btnChange_Tapped"
                 Foreground="White" RenderTransformOrigin="0,0"  Grid.ColumnSpan="1" Width="100" Margin="0,0,0,10"/>
-
+            
+          <Image Grid.Row="1" Grid.Column="0" 
         
     </Grid>
 </Page>
