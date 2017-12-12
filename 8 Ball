@@ -55,5 +55,6 @@
           Source="Assets/magic8ball.png"
           Stretch="None"
           HorizontalAlignment="Center"
+          Visibility="Visible" Grid.ColumnSpan="1" Grid.RowSpan="1" Margin="0,0,0,0" />
     </Grid>
 </Page>
