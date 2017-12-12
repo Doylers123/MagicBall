@@ -33,9 +33,7 @@ namespace appPro
         private void btnChange_Tapped(object sender, TappedRoutedEventArgs e)
         {
             Random rdm = new Random();
-
             int randomNum = rdm.Next(0, words.Length);
-
             tblThree.Text = words[randomNum];
 
             MediaPlayer mediaPlayer = new MediaPlayer();
