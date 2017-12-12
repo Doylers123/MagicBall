@@ -40,7 +40,7 @@
         <StackPanel Grid.Row="2" Grid.Column="1" Orientation="Vertical"  
                     HorizontalAlignment="Center"  VerticalAlignment="Center" Background="Blue"
                     Margin="0,0,0,0">
-            <TextBlock x:Name="tblThree" Text="Ask and Click" 
+            <TextBlock x:Name="tblThree" Text="Ask and Shake" 
                        FontSize="28" Foreground="White" />
         </StackPanel>
 
