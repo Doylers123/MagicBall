@@ -54,5 +54,6 @@
           <Image Grid.Row="1" Grid.Column="0" 
           Source="Assets/magic8ball.png"
           Stretch="None"
+          HorizontalAlignment="Center"
     </Grid>
 </Page>
