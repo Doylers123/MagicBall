@@ -35,7 +35,7 @@
                        FontSize="28" Foreground="White" />
             <TextBlock x:Name="tblTwo" Text="Click Shake Ball!" 
                        FontSize="28" Foreground="White" />
-        </StackPanel>
+        </StackPanel> 
 
         <StackPanel Grid.Row="2" Grid.Column="1" Orientation="Vertical"  
                     HorizontalAlignment="Center"  VerticalAlignment="Center" Background="Blue"
