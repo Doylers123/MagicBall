@@ -33,7 +33,7 @@ namespace appPro
             Random rdm = new Random();
             int randomNum = rdm.Next(0, words.Length);
             tblThree.Text = words[randomNum];
-
+ 
             MediaPlayer mediaPlayer = new MediaPlayer();
             mediaPlayer.Source = MediaSource.CreateFromUri(new Uri("ms-appx:///Assets/Shake.wav"));
             mediaPlayer.Play();
